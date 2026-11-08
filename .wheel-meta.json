@@ -1,0 +1,22 @@
+{
+  "wheel_id": 851,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-112",
+  "project": "mortgage-broker-bendigo-local-options-compared-01dd736ea3802719",
+  "parent_t1_ref": "bendigohomeloanbroker-155",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo local options compared",
+  "intended_url": "https://sitesau.github.io/bendigohomeloanbroker-112/",
+  "tier": "T2",
+  "writeback_nonce": "a7727dd72502a2cd",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-broker-bendigo-red-flags-19e9cb7872dd96663cd5d1fd7cd83/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
